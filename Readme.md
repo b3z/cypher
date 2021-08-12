@@ -1,4 +1,4 @@
-# GPG direcctory encryption
+# GPG directory encryption
 
 Import this snippet into your .zshrc
 
